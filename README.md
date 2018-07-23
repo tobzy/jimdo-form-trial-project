@@ -21,3 +21,15 @@ You are totally free in deciding how you build this. If anything is unclear to y
 
 #### Run tests
 `yarn test`
+
+#### Demo
+A demo for this application can be found [here](http://jimdo-form-trial-by-tobe.surge.sh/).
+
+#### Tools:
+
+1. [ReactJS](https://reactjs.org)
+2. [Surge](https://surge.sh) was used for deployment
+
+```Powershell
+Tags: Jimdo, ReactJS, Redux.
+```
