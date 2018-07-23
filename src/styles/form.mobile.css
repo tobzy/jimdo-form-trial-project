@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    .jimdo-form{
+        height: 300px;
+    }
+    .jimdo-form .form-input-group {
+        height: 50px;
+         line-height: 15px;
+        border-bottom: 1px solid #ddd;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .jimdo-form .form-input-group input, .jimdo-form .form-input-group textarea {
+        font-size: 20px;
+    }
+}
